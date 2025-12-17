@@ -1,4 +1,4 @@
-# 🚖 Taxi Fare Prediction
+# 🚖 Taxi Fare Prediction: NYC Geospatial Regression Analysis
 
 ## 📌 Project Overview
 
