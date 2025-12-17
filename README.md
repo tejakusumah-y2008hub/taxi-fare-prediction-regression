@@ -1,4 +1,4 @@
-# 🚖 Taxi Fare Prediction: End-to-End Machine Learning Pipeline
+# 🚖 Taxi Fare Prediction
 
 ## 📌 Project Overview
 
